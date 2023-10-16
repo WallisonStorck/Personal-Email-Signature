@@ -1,0 +1,3 @@
+- Adicionar foto aqui para guardar
+- Subir foto no postimages
+- Refatorar o código
